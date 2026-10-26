@@ -1,0 +1,13 @@
+Sample_ID,Age,Tumor_Size,Tumor_Stage,RCB,ER_Status,PR_Status,HER2_Status,Histologic Grade,Histologic Subtybe,Mutation_Count,TMB(nonsynonymous),pCR_Status,Gene_Panel,Somatic_Status
+BC04-P1,80,4.4,T2,II,Negative,Negative,Negative,3,IDC_NST,7,7.764,No,IMPACT341,Matched
+BC10-M2,48,6.2,T3,III,Negative,Negative,Negative,3,IDC_NST,4,4.436,No,IMPACT341,Matched
+BC16-P1,56,3.1,T2,0,Negative,Negative,Negative,3,IDC_NST,3,3.327,Yes,IMPACT341,Matched
+BC16-T,56,3.1,T2,0,Negative,Negative,Negative,3,IDC_NST,2,2.218,Yes,IMPACT341,Matched
+BC03-P1,50,2,T2,0,Negative,Negative,Negative,3,IDC_NST,2,2.218,Yes,IMPACT341,Matched
+BC10-M3,48,6.2,T3,III,Negative,Negative,Negative,3,IDC_NST,4,4.436,No,IMPACT341,Matched
+BC03-T,50,2,T2,0,Negative,Negative,Negative,3,IDC_NST,2,2.218,Yes,IMPACT341,Matched
+BC04-T,80,4.4,T2,II,Negative,Negative,Negative,3,IDC_NST,7,7.764,No,IMPACT341,Matched
+BC10-P1,48,6.2,T3,III,Negative,Negative,Negative,3,IDC_NST,8,8.873,No,IMPACT341,Matched
+BC10-M1,48,6.2,T3,III,Negative,Negative,Negative,3,IDC_NST,4,4.436,No,IMPACT341,Matched
+BC10-T2,48,6.2,T3,III,Negative,Negative,Negative,3,IDC_NST,5,5.545,No,IMPACT341,Matched
+BC04-T2,80,4.4,T2,II,Negative,Negative,Negative,3,IDC_NST,7,7.764,No,IMPACT341,Matched
