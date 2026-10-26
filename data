@@ -1,9 +1,0 @@
-   # 📊 Data Directory
-   
-   This directory contains the manually curated and harmonized relational tables derived from the MSK Breast Cancer cfDNA (2026) dataset. 
-   
-   The data is structured into four specialized analytical tables linked by a unique sample identifier:
-   1. **Clinical Data:** Patient demographics, tumor characteristics, and treatment response (pCR, RCB).
-   2. **Somatic Variants (SNVs & Indels):** Point mutations with Variant Allele Frequencies (VAF) and functional annotations.
-   3. **Copy Number Alterations (CNVs):** Structural genomic events (amplifications/deletions).
-   4. **Biological Pathways:** Activation status of canonical oncogenic signaling pathways per sample.
