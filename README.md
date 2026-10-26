@@ -23,7 +23,7 @@ Based on the pipeline, the top 5 prioritized genes for the TNBC ctDNA panel are:
 5. **PIK3CA** (Score: 5.5)
 
 ## 🛠️ Repository Structure
-- `data/`: Contains the curated relational tables (Clinical, Somatic Variants, CNVs, Pathways).
+- `my_data/`: Contains the curated relational tables (Clinical, Somatic Variants, CNVs, Pathways).
 - `notebooks/`: Jupyter Notebook containing the full step-by-step bioinformatics pipeline.
 
 
