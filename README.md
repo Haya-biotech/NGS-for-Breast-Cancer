@@ -25,7 +25,7 @@ Based on the pipeline, the top 5 prioritized genes for the TNBC ctDNA panel are:
 ## 🛠️ Repository Structure
 - `data/`: Contains the curated relational tables (Clinical, Somatic Variants, CNVs, Pathways).
 - `notebooks/`: Jupyter Notebook containing the full step-by-step bioinformatics pipeline.
-- `scripts/`: Independent verification scripts used to regenerate and validate all results.
+
 
 ## 📚 Data Source
 Publicly available de-identified data from the **MSK Breast Cancer cfDNA (2026)** cohort via the [cBioPortal for Cancer Genomics](https://www.cbioportal.org) (Study ID: `breast_msk_cfdna_2026`).
