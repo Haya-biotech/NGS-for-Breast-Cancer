@@ -34,5 +34,4 @@ Publicly available de-identified data from the **MSK Breast Cancer cfDNA (2026)*
 - **Researcher & Developer:** [Haya Nahhas](https://github.com/your-username) *(Independent Researcher in Bioinformatics, BSc in Bioengineering)*
 - **Academic Supervisor:** **Dr. Joseph Shenkji**, Ph.D. in Biotechnology Engineering
 
-## 📜 License
-This project is intended for academic and research purposes. 
+
